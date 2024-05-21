@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/widgets.dart';
 import 'package:quiz/admin/Admin_dashboard.dart';
-import 'package:quiz/screen/screens/home_screen.dart';
+import 'package:quiz/screen/home_screen.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 
